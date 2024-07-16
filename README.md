@@ -19,14 +19,17 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JavaScript](https://progress-bar.dev/60)
 
 - React <br>
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://progress-bar.dev/30)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://progress-bar.dev/60)
 
 - Bootstrap <br>
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bootstrap](https://progress-bar.dev/40)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bootstrap](https://progress-bar.dev/60)
+
+- NextJS <br>
+  ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![NextJS](https://progress-bar.dev/40)
 
 ### Back-end
 - Node.js <br>
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Node.js](https://progress-bar.dev/30)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Node.js](https://progress-bar.dev/40)
 
 ### Tools and Frameworks
 - Git <br>
@@ -43,7 +46,7 @@
 ### [Panflix 🎥](https://example.com/panflix)
 A movie streaming website built with React, allowing users to browse and watch their favorite movies and TV shows.
 
-### [Okay-Mart 🛒](https://okaymart-8c627.web.app/)
+### [Okay-Mart 🛒](https://okay-mart.vercel.app/)
 An e-commerce platform developed using React and Node.js, featuring a user-friendly interface for online shopping.
 
 ### [Portfolio Template 📝](https://okayinterrupt.web.app/)
@@ -54,17 +57,18 @@ My personal web development portfolio, highlighting my projects, skills, and exp
 
 ### [Pandahub 📝](https://pandahubtest.web.app/)
 A blogging platform built with React, allowing users to create, read, and share blog posts.
-
+<!--
 ## 💻 Accomplishments
 
 - Completed the JavaScript course at [Course Provider] (Certificate Link)
 - Contributed to [Open Source Project] (Link)
+-->
 
 ## 💬 Let's Connect
 
 I'm always excited to discuss web development and coding. Don't hesitate to reach out on [LinkedIn](https://www.linkedin.com/in/nnamdi-dike/) or [Twitter](https://x.com/OKAYINTERRUPT).
 
-**Want to collaborate or hire me?** Feel free to explore my [portfolio](https://nnamdiemmanueldike.web.app/) and send me a message!
+**Want to collaborate or hire me?** Feel free to explore my [portfolio](https://nnamdiemmanueldike.web.app/) and send me a [message](https://mailme:emmanueldike275@gmail.com)!
 
 ---
 
