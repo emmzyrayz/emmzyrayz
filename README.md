@@ -57,6 +57,10 @@ My personal web development portfolio, highlighting my projects, skills, and exp
 
 ### [Pandahub 📝](https://pandahubtest.web.app/)
 A blogging platform built with React, allowing users to create, read, and share blog posts.
+
+### [OvenJoy 📝](https://ovenjoybakery-656d8.web.app/)
+A bakery website built with vite+react, to allow users place order for any bakery product that they need.
+
 <!--
 ## 💻 Accomplishments
 
