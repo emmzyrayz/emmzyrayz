@@ -4,7 +4,32 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Web Developer
 ----------------------
 
-I'm a frontend developer and math student passionate about turning ideas into scalable digital products. Currently studying at Nnamdi Azikiwe University and transitioning into cybersecurity, I love solving complex problems with clean UI, solid logic, and secure systems. ### 🚀 What I do: - Build responsive web apps using \*\*React\*\*, \*\*Next.js\*\*, \*\*TailwindCSS\*\*, and \*\*TypeScript\*\* - Explore cybersecurity and ethical hacking tools - Design templates, UI components, and reusable systems - Dive into science theories, emotional psychology, and space tech in my free time ### 🔧 Tech Stack: - \*\*Frontend:\*\* HTML, CSS, JavaScript, React, Next.js, Tailwind CSS - \*\*Backend (learning):\*\* Node.js, Express, MongoDB - \*\*Tools:\*\* Git, GitHub, VS Code, Figma, Postman, Framer Motion ### 🛠 Current Projects: - \*\*Okey Mart:\*\* A secure e-commerce platform with seller protection and escrow features - \*\*PandaHub & PandaAcademy:\*\* Educational tools for developers and learners - \*\*Portfolio site:\*\* \[nnamdidike.vercel.app\](https://nnamdidike.vercel.app) ### ⚡ Goals: - Become a fullstack web developer - Build a SaaS platform for small business inventory management - Work on real-world cybersecurity defense tools > \*“Write code that speaks. Design systems that protect. Build futures that last.”\*
+I'm a frontend developer and math student passionate about turning ideas into scalable digital products. Currently studying at Nnamdi Azikiwe University and transitioning into cybersecurity, I love solving complex problems with clean UI, solid logic, and secure systems. 
+
+### 🚀 What I do: 
+
+- Build responsive web apps using \*\*React\*\*, \*\*Next.js\*\*, \*\*TailwindCSS\*\*, and \*\*TypeScript\*\*
+- Explore cybersecurity and ethical hacking tools
+- Design templates, UI components, and reusable systems
+- Dive into science theories, emotional psychology, and space tech in my free time
+
+### 🔧 Tech Stack: 
+
+- \*\*Frontend:
+  \*\* HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
+  
+- \*\*Backend (learning):
+  \*\* Node.js, Express, MongoDB
+
+- \*\*Tools:
+  \*\* Git, GitHub, VS Code, Figma, Postman, Framer Motion
+
+### 🛠 Current Projects: 
+- \*\*Okey Mart:\*\* A secure e-commerce platform with seller protection and escrow features
+- \*\*PandaHub & PandaAcademy:\*\* Educational tools for developers and learners
+- \*\*Portfolio site:\*\* \[nnamdidike.vercel.app\](https://nnamdidike.vercel.app)
+
+### ⚡ Goals: - Become a fullstack web developer - Build a SaaS platform for small business inventory management - Work on real-world cybersecurity defense tools > \*“Write code that speaks. Design systems that protect. Build futures that last.”\*
 
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [My portfolio](http://www.nnamdidike.vercel.app)
