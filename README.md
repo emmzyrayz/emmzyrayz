@@ -1,118 +1,54 @@
-# Hello, I'm Nnamdi Emmanuel Dike 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nnamdi Emmanuel Dike
+============================================================================================================================================
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Web%20Developer-Creating%20Experiences-brightgreen">
-</p>
+Frontend Web Developer
+----------------------
 
-🚀 Welcome to my coding journey! I'm a dedicated frontend web developer with a passion for crafting captivating and user-centric web experiences. My mission is to create beautifully designed websites and applications that leave a lasting impression. 🚀
+I'm a frontend developer and math student passionate about turning ideas into scalable digital products. Currently studying at Nnamdi Azikiwe University and transitioning into cybersecurity, I love solving complex problems with clean UI, solid logic, and secure systems. ### 🚀 What I do: - Build responsive web apps using \*\*React\*\*, \*\*Next.js\*\*, \*\*TailwindCSS\*\*, and \*\*TypeScript\*\* - Explore cybersecurity and ethical hacking tools - Design templates, UI components, and reusable systems - Dive into science theories, emotional psychology, and space tech in my free time ### 🔧 Tech Stack: - \*\*Frontend:\*\* HTML, CSS, JavaScript, React, Next.js, Tailwind CSS - \*\*Backend (learning):\*\* Node.js, Express, MongoDB - \*\*Tools:\*\* Git, GitHub, VS Code, Figma, Postman, Framer Motion ### 🛠 Current Projects: - \*\*Okey Mart:\*\* A secure e-commerce platform with seller protection and escrow features - \*\*PandaHub & PandaAcademy:\*\* Educational tools for developers and learners - \*\*Portfolio site:\*\* \[nnamdidike.vercel.app\](https://nnamdidike.vercel.app) ### ⚡ Goals: - Become a fullstack web developer - Build a SaaS platform for small business inventory management - Work on real-world cybersecurity defense tools > \*“Write code that speaks. Design systems that protect. Build futures that last.”\*
 
-## 🌟 Skills
+*   🌍  I'm based in Nigeria
+*   🖥️  See my portfolio at [My portfolio](http://www.nnamdidike.vercel.app)
+*   ✉️  You can contact me at [emmanueldike275@gmail.com](mailto:emmanueldike275@gmail.com)
+*   🚀  I'm currently working on [Panda Academy](http://pandaacademy.vercel.app/)
+*   🧠  I'm learning Nextjs/Typescript
+*   🤝  I'm open to collaborating on Educational related projects<a href="https://www.github.com/emmzyrayz" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/emmzyrayz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/OKAYINTERRUPT" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/OKAYINTERRUPT?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a>### Skills 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a></p>
 
-### Front-end
-- HTML <br>
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![HTML5](https://progress-bar.dev/90)
-
-- CSS <br>
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![CSS3](https://progress-bar.dev/70)
-
-- JavaScript <br>
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JavaScript](https://progress-bar.dev/60)
-
-- React <br>
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://progress-bar.dev/60)
-
-- Bootstrap <br>
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bootstrap](https://progress-bar.dev/60)
-
-- NextJS <br>
-  ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![NextJS](https://progress-bar.dev/40)
-
-### Back-end
-- Node.js <br>
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Node.js](https://progress-bar.dev/40)
-
-### Tools and Frameworks
-- Git <br>
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Git](https://progress-bar.dev/80)
-
-- GitHub <br>
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub](https://progress-bar.dev/70)
-
-- VS Code <br>
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![VS Code](https://progress-bar.dev/60)
-
-## 🚀 Featured Projects
-
-### [Panflix 🎥](https://example.com/panflix)
-A movie streaming website built with React, allowing users to browse and watch their favorite movies and TV shows.
-
-### [Okay-Mart 🛒](https://okay-mart.vercel.app/)
-An e-commerce platform developed using React and Node.js, featuring a user-friendly interface for online shopping.
-
-### [Portfolio Template 📝](https://okayinterrupt.web.app/)
-A responsive and modern portfolio website template, showcasing my web development skills.
-
-### [Portfolio 📝](https://nnamdiemmanueldike.web.app/)
-My personal web development portfolio, highlighting my projects, skills, and experience.
-
-### [Pandahub 📝](https://pandahubtest.web.app/)
-A blogging platform built with React, allowing users to create, read, and share blog posts.
-
-### [OvenJoy 📝](https://ovenjoybakery-656d8.web.app/)
-A bakery website built with vite+react, to allow users place order for any bakery product that they need.
-
-<!--
-## 💻 Accomplishments
-
-- Completed the JavaScript course at [Course Provider] (Certificate Link)
-- Contributed to [Open Source Project] (Link)
--->
-
-## 💬 Let's Connect
-
-I'm always excited to discuss web development and coding. Don't hesitate to reach out on [LinkedIn](https://www.linkedin.com/in/nnamdi-dike/) or [Twitter](https://x.com/OKAYINTERRUPT).
-
-**Want to collaborate or hire me?** Feel free to explore my [portfolio](https://nnamdiemmanueldike.web.app/) and send me a [message](https://mailme:emmanueldike275@gmail.com)!
-
----
-
-<p align="center">Happy coding! 🚀</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
-</p>
-
-<!--
-**emmzyrayz/emmzyrayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-# Hello
-
-## About Me
-[A brief introduction about yourself, your background, and your interests]
-
-## Skills
-[List your skills and technologies you're proficient in]
-
-## Projects
-[Showcase your notable projects with brief descriptions and links]
-
-## Experience
-[Share your work experience, internships, or any relevant experience]
-
-## Education
-[Mention your educational background, degrees, or certifications]
-
-## Connect with Me
-[Add your contact information, social media links, or any other ways people can reach out to you]
--->
+### Socials
+<p align="left">
+  <a href="https://www.github.com/emmzyrayz" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://OKEYINTERRUPT.hashnode.dev" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="http://www.medium.com/@emmanueldike275" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.x.com/OKAYINTERRUPT" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/emmzyrayz"><img src="https://github-readme-stats.vercel.app/api?username=emmzyrayz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="emmzyrayz's GitHub stats" /></a><a
+                      href="http://www.github.com/emmzyrayz"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=emmzyrayz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/emmzyrayz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=emmzyrayz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/emmzyrayz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmzyrayz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
